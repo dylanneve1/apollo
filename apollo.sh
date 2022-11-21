@@ -35,7 +35,7 @@ CR_KERNEL=$CR_DIR/arch/arm64/boot/Image
 CR_DTB=$CR_DIR/arch/arm64/boot/dtb.img
 # Kernel Name and Version
 CR_VERSION=V3.2
-CR_NAME=Apollo
+CR_NAME=Apollo_QHWC
 # Thread count
 CR_JOBS=$(nproc --all)
 # Target Android version
