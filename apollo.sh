@@ -34,8 +34,8 @@ CR_KERNEL=$CR_DIR/arch/arm64/boot/Image
 # Compiled dtb by dtbtool
 CR_DTB=$CR_DIR/arch/arm64/boot/dtb.img
 # Kernel Name and Version
-CR_VERSION=V4.1
-CR_NAME=Apollo
+CR_VERSION=V4.2
+CR_NAME=Apollo_sched
 # Thread count
 CR_JOBS=$(nproc --all)
 # Target Android version
